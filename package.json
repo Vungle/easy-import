@@ -1,0 +1,20 @@
+{
+  "name": "easy-import",
+  "version": "0.3.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Vungle/easy-import.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Vungle/easy-import/issues"
+  },
+  "homepage": "https://github.com/Vungle/easy-import#readme"
+}
